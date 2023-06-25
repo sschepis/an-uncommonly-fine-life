@@ -1,0 +1,7 @@
+{
+    "plugins": [
+      "@babel/plugin-proposal-dynamic-import",
+      "@babel/plugin-proposal-private-property-in-object",
+      "@babel/plugin-transform-runtime"
+    ]
+  }
