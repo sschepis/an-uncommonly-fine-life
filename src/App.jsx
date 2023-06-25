@@ -123,7 +123,7 @@ const App = () => {
           const chapterPages = chapterObject.pages.map((page, i) => (<>
             <a name={"page_" + chn + '_' + i}></a>
             <ParallaxPanel
-              image={Math.floor(Math.random() * 4) + 1 + "/" + pageCounter++ + ".png"}
+              image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + Math.floor(Math.random() * 4) + 1 + "/" + pageCounter++ + ".png"}
               overImageContent={i === 0 && <h1>{book[part][chapter].title}</h1>}
               content={<StarfieldBackground children={<> <p>{page.content.replace(/\n/g, '<br />')}</p> </>} />}
             />
