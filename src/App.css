@@ -126,6 +126,11 @@ html {
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
 }
 
+.section-toc {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .toc {
   width: 100%;
   height: 100%;

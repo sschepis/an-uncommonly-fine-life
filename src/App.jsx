@@ -49,7 +49,7 @@ const ParallaxCoverPanel = ({ content }) => (
 
 const ParallaxSectionTOC = ({ section }) => {
   const sectionChapters = Object.values(section);
-  return sectionChapters.map((chapter, chn) => {
+  const chapterTOCs = (sectionChapters.map((chapter, chn) => {
     const pages = chapter.pages.map((page, index) => (
       <div class="page"><a href={"#page_" + chn + '_' + index}>{index+1}</a></div>
     ))
@@ -57,7 +57,10 @@ const ParallaxSectionTOC = ({ section }) => {
       <h2>{chapter.title}</h2>
       <div className="pages">{pages}</div>
     </div>)
-  })
+  }))
+  return (<div className="section-toc">
+    {chapterTOCs}
+  </div>)
 }
 
 const ParallaxNewsletterSignupPanel = ({ onSubmit }) => {
