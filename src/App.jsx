@@ -122,7 +122,7 @@ const App = () => {
         <ParallaxSectionTOC section={book[part]} />
         {Object.keys(book[part]).map((chapter, chn) => {
 
-          const imgGroup = Math.floor(Math.random() * 4) + 1;
+          const imgGroup = Math.floor(Math.random() * 5) + 1;
           const chapterObject = book[part][chapter];
           const chapterPages = chapterObject.pages.map((page, i) => (<>
             <a name={"page_" + chn + '_' + i}></a>
