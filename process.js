@@ -764,6 +764,7 @@ async  function processPage(page) {
     return new Promise((resolve, reject) => 
         axios.post('http://127.0.0.1:7860/sdapi/v1/txt2img', {
             prompt: page.image,
+            negative_prompt: "text, words",
             steps: 25,
             width: 512,
             height: 512
