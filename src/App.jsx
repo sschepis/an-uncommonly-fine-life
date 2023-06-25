@@ -1,5 +1,6 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
+import jsxToString from 'jsx-to-string';
 
 import './App.css';
 import './Starfield.css';
@@ -30,7 +31,7 @@ const ParallaxPanel = ({ image, overImageContent, content }) => (
       strength={400}
       style={{ height: '600px' }}
     >
-      <div className="content over-image">{overImageContent}</div>
+  <div className="content over-image">{overImageContent}</div>
     </Parallax>
     <div className="plain-content"><div className="plain-content-text">{content}</div></div>
   </div>
@@ -129,7 +130,7 @@ const App = () => {
             <ParallaxPanel
               image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + imgGroup + "/" + pageCounter++ + ".png"}
               overImageContent={i === 0 && <h1>{book[part][chapter].title}</h1>}
-              content={<StarfieldBackground children={<> <p>{page.content.replace(/\n/g, '<br />')}</p> </>} />}
+              content={<StarfieldBackground children={<> <div dangerouslySetInnerHTML={{__html:page.content.replace(/\n/g, '<br />' )}}></div></>} />}
             />
           </>))
           return (<>
