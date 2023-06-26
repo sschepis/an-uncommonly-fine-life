@@ -276,23 +276,23 @@ const book = {
                 },
                 {
                     "image": "An image of a student actively engaging in their learning process, surrounded by various educational tools and resources, in the style of a lively infographic.",
-                    "content": "Every single person is responsible for their own education. We may have teachers and mentors who can guide us, but ultimately, it is up to us to learn."
+                    "content": "Every single person is responsible for their own education.\n\nWe may have teachers and mentors who can guide us, but ultimately, it is up to us to learn."
                 },
                 {
                     "image": "An illustration of a person on a tightrope, representing taking risks and learning through mistakes, in the style of a thoughtful, minimalist design.",
-                    "content": "This can be a scary thought. It means that we are responsible for our own lives. It means that we can't blame others for our mistakes. It means that we have to take risks."
+                    "content": "This can be a scary thought.\n\nIt means that we are responsible for our own lives.\n\nIt means that we can't blame others for our mistakes.\n\nIt means that we have to take risks."
                 },
                 {
                     "image": "An image of a person taking control of their life, choosing their path, and personal growth, in the style of an inspiring, colorful illustration.",
-                    "content": "However, it also means that we are in control of our own lives. We get to choose what we want to learn. We get to choose what we want to do with our lives. We get to make our own decisions."
+                    "content": "However, it also means that we are in control of our own lives.\n\nWe get to choose what we want to learn.\n\nWe get to choose what we want to do with our lives.\n\nWe get to make our own decisions."
                 },
                 {
                     "image": "An image of an individual breaking free from chains, symbolizing liberation from societal expectations and embracing self-learning, in the style of a powerful graphic artwork.",
-                    "content": "This is a liberating thought. It means that we are not limited by what others think we should do. It means that we are free to be our own person. It means that we can create our own destiny."
+                    "content": "This is a liberating thought.\n\nIt means that we are not limited by what others think we should do.n\n\It means that we are free to be our own person.\n\nIt means that we can create our own destiny."
                 },
                 {
                     "image": "An image of a person beginning their self-learning journey, filled with determination and curiosity, in the style of an uplifting, motivational illustration.",
-                    "content": "So, if you want to change your life, change the way you learn. Stop waiting for someone else to teach you what you need to know. Start learning for yourself. Start taking risks. Start making mistakes. And most importantly, start living your life."
+                    "content": "So, if you want to change your life, change the way you learn.\n\nStop waiting for someone else to teach you what you need to know.\n\nStart learning for yourself.\n\nStart taking risks.\n\nStart making mistakes.\n\n dAnd most importantly, start living your life."
                 }
             ]
         },
@@ -306,19 +306,19 @@ const book = {
                 },
                 {
                     "image": "An image of multiple people, each in their own bubble, surrounded by their thoughts, feelings, and experiences, in the style of a detailed pencil sketch.",
-                    "content": "It is not about you.\n\nOther people's actions and words are a reflection of their own thoughts, feelings, and experiences. They are not a reflection of you.\n\nYou are not responsible for other people's thoughts, feelings, or experiences. You are not responsible for their actions or words."
+                    "content": "It is not about you.\n\nOther people's actions and words are a reflection of their own thoughts, feelings, and experiences.\n\nThey are not a reflection of you.\n\nYou are not responsible for other people's thoughts, feelings, or experiences.\n\nYou are not responsible for their actions or words."
                 },
                 {
                     "image": "An image of a person standing tall and taking control of their own thoughts, emotions, and experiences, while others' opinions fade into the background, in the style of a watercolor painting.",
-                    "content": "You are responsible for your own thoughts, feelings, and experiences. You are responsible for your own actions and words.\n\nWhen you take things personally, you are giving away your power. You are giving other people the power to control your thoughts, feelings, and experiences."
+                    "content": "You are responsible for your own thoughts, feelings, and experiences.\n\nYou are responsible for your own actions and words.\n\nWhen you take things personally, you are giving away your power.\n\nYou are giving other people the power to control your thoughts, feelings, and experiences."
                 },
                 {
                     "image": "An image of a person observing the world around them objectively, not allowing others' actions or words to control them, in the style of a modern digital illustration.",
-                    "content": "Instead of taking things personally, observe them objectively. See them for what they are. Don't allow them to control you.\n\nRemember, you are not your thoughts, you are not your emotions, you are not your experiences. You are the aware presence that is aware of all these things."
+                    "content": "Instead of taking things personally, observe them objectively.\n\nSee them for what they are.\n\nDon't allow them to control you.\n\nRemember, you are not your thoughts, you are not your emotions, you are not your experiences.\n\nYou are the aware presence that is aware of all these things."
                 },
                 {
                     "image": "An image of a person detaching themselves from their thoughts, emotions, and experiences, not allowing these elements to control them, in the style of an expressive oil painting.",
-                    "content": "When you take things personally, you are identifying with your thoughts, emotions, and experiences. You are attaching yourself to them. You are giving them power over you.\n\nInstead of identifying with your thoughts, emotions, and experiences, observe them objectively. See them for what they are. Don't allow them to control you."
+                    "content": "When you take things personally, you are identifying with your thoughts, emotions, and experiences.\n\nYou are attaching yourself to them.\n\nYou are giving them power over you.\n\nInstead of identifying with your thoughts, emotions, and experiences, observe them objectively.\n\nSee them for what they are.\n\nDon't allow them to control you."
                 }
             ]
         },
@@ -340,15 +340,15 @@ const book = {
                 },
                 {
                     "image": "An image of a person concentrating and focusing on their goals, with various symbols around them representing the laws of attraction, in the style of a modern digital illustration.",
-                    "content": "It is never too late to set new goals or to dream a new dream. The laws of attraction are clear - what you focus on, you become."
+                    "content": "It is never too late to set new goals or to dream a new dream.\n\nThe laws of attraction are clear - what you focus on, you become."
                 },
                 {
                     "image": "An image of a person walking towards a bright, shining light, symbolizing stepping into their power and creating their reality, in the style of a stylized graphic novel.",
-                    "content": "When you live with intention you tell the Universe that you're ready for more. You step into your power. You create your reality."
+                    "content": "When you live with intention you tell the Universe that you're ready for more.\n\nYou step into your power.\n\nYou create your reality."
                 },
                 {
                     "image": "An image of a person sitting in a peaceful environment, observing their actions and thoughts with a mindful approach, in the style of a serene Japanese ink painting.",
-                    "content": "Living with intention means being conscious with the choices that you make, whatever they might be. Doing this is simple - when you are acting in the world, carve out a portion of your conscious attention which you dedicate solely towards observing yourself acting."
+                    "content": "Living with intention means being conscious with the choices that you make, whatever they might be.\n\nDoing this is simple - when you are acting in the world, carve out a portion of your conscious attention which you dedicate solely towards observing yourself acting."
                 },
                 {
                     "image": "An image of a person practicing meditation, focusing on their breath, as they go through the process of learning how to live with intention, in the style of a minimalist line drawing.",
@@ -356,7 +356,7 @@ const book = {
                 },
                 {
                     "image": "An image of a person calmly observing their thoughts and actions without judgment, with a peaceful and non-judgmental expression on their face, in the style of a soothing pastel-colored illustration.",
-                    "content": "It's important to practice intention without judgment or expectation. Critical, even. You're not really trying to do or accomplish anything with this portion of yourself - just be present with yourself. Bring judgment or a goal-orientation to this activity tends to reinforce those tendencies, not diminish them. Just observe, without judgment."
+                    "content": "It's important to practice intention without judgment or expectation.\n\nCritical, even.\n\nYou're not really trying to do or accomplish anything with this portion of yourself - just be present with yourself.\n\nBring judgment or a goal-orientation to this activity tends to reinforce those tendencies, not diminish them.\n\nJust observe, without judgment."
                 },
                 {
                     "image": "An image of a person with an open and receiving mind, surrounded by symbols of wisdom and knowledge that they gain from living intentionally, in the style of a vibrant and detailed collage.",
@@ -366,7 +366,6 @@ const book = {
         },
         "Chapter 12": {
             "title": "Be Aware of Your Energy",
-            "contents": "\"The greatest weapon against stress is our ability to choose one thought over another.\" - William James\n\n\"You can't stop the waves, but you can learn to surf.\" - Jon Kabat-Zinn\n\n\"The only thing we can control in life is our reaction to what life throws at us.\" - Unknown\n\nYou are a product of your environment. The people you spend time with, the places you go, the things you see and hear - all of these things influence the way you think, feel, and behave.\n\nIf you want to change your life, change your environment. Surround yourself with people who support your goals and who inspire you to be your best self. Go to places that make you feel good. Do things that make you feel alive.\n\nBe aware of your own energy. Are you putting out positive energy or negative energy? Are you working towards your goals or away from them?\n\nYour energy is contagious. When you are positive and working towards your goals, you will attract people and opportunities that are positive and that will help you achieve your goals. On the other hand, if you are negative and working against your goals, you will attract people and opportunities that are negative and that will hinder your progress.\n\nSo, be aware of your energy. Choose to put out positive energy. Choose to focus on your goals. And watch as your life starts to change for the better.",
             "pages": [
                 {
                     "image": "An image of a person standing on a beach, looking out at the waves, in the style of a watercolor painting.",
@@ -378,19 +377,19 @@ const book = {
                 },
                 {
                     "image": "An image of a person surrounded by nature, with arms stretched out wide, taking in the positive energy, in the style of an oil painting.",
-                    "content": "If you want to change your life, change your environment. Surround yourself with people who support your goals and who inspire you to be your best self. Go to places that make you feel good. Do things that make you feel alive."
+                    "content": "If you want to change your life, change your environment.\n\nSurround yourself with people who support your goals and who inspire you to be your best self.\n\nGo to places that make you feel good.\n\nDo things that make you feel alive."
                 },
                 {
                     "image": "An image of a person standing in front of a mirror, reflecting on their energy, with a mix of positive and negative icons floating around them, in the style of a modern vector illustration.",
-                    "content": "Be aware of your own energy. Are you putting out positive energy or negative energy? Are you working towards your goals or away from them?"
+                    "content": "Be aware of your own energy.\n\nAre you putting out positive energy or negative energy?\n\nAre you working towards your goals or away from them?"
                 },
                 {
                     "image": "An image of a person holding a magnet, attracting positive people and opportunities towards them, set in a bright and optimistic scene, in the style of a minimalist illustration.",
-                    "content": "Your energy is contagious. When you are positive and working towards your goals, you will attract people and opportunities that are positive and that will help you achieve your goals. On the other hand, if you are negative and working against your goals, you will attract people and opportunities that are negative and that will hinder your progress."
+                    "content": "Your energy is contagious.\n\nWhen you are positive and working towards your goals, you will attract people and opportunities that are positive and that will help you achieve your goals.\n\nOn the other hand, if you are negative and working against your goals, you will attract people and opportunities that are negative and that will hinder your progress."
                 },
                 {
                     "image": "An image of a person walking on a path, surrounded by positive energy and focusing on their goals, with the sun shining brightly in the background, in the style of a vibrant digital painting.",
-                    "content": "So, be aware of your energy. Choose to put out positive energy. Choose to focus on your goals. And watch as your life starts to change for the better."
+                    "content": "So, be aware of your energy.\n\nChoose to put out positive energy.\n\nChoose to focus on your goals.\n\nAnd watch as your life starts to change for the better."
                 }
             ]
         },
@@ -408,23 +407,23 @@ const book = {
                 },
                 {
                     "image": "A depiction of people from different backgrounds and age groups spreading kindness and positive energy, helping others and making the world a better place, in a lively, dynamic and uplifting style.",
-                    "content": "When we are kind, we are putting out positive energy into the world. We are making a difference in the lives of others. We are making the world a better place."
+                    "content": "When we are kind, we are putting out positive energy into the world.\n\nWe are making a difference in the lives of others.\n\nWe are making the world a better place."
                 },
                 {
                     "image": "An image of an individual reflecting on their own choices and actions in front of a mirror, with a positive aura radiating from them, in a detailed and introspective style.",
-                    "content": "When we are kind, we are also making a difference in our own lives. We are choosing to focus on the positive. We are choosing to be happy. We are choosing to make our lives better."
+                    "content": "When we are kind, we are also making a difference in our own lives.\n\nWe are choosing to focus on the positive.\n\nWe are choosing to be happy.\n\nWe are choosing to make our lives better."
                 },
                 {
                     "image": "A heartwarming illustration of a person extending their hand to help another person, symbolizing a heart-connection, in a rich and emotive style.",
-                    "content": "Kindness is an enactment of the highest aspects of self. It is a free gift of heart-connection with another being - the essential action of love due to the recognition of our shared condition with another being."
+                    "content": "Kindness is an enactment of the highest aspects of self.\n\nIt is a free gift of heart-connection with another being - the essential action of love due to the recognition of our shared condition with another being."
                 },
                 {
                     "image": "An image of people experiencing the contagious nature of kindness, as their actions inspire others to do the same, forming a chain reaction of positive energy, in a fluid and engaging style.",
-                    "content": "Kindness is magical, because it is not zero-sum. It is a contagious condition, a reaffirmation of connectedness, and it is a profoundly healing offering that leaves you, and its recipient, happier than the moment before."
+                    "content": "Kindness is magical, because it is not zero-sum.\n\nIt is a contagious condition, a reaffirmation of connectedness, and it is a profoundly healing offering that leaves you, and its recipient, happier than the moment before."
                 },
                 {
                     "image": "A gently uplifting illustration of people practicing self-compassion and being kind to themselves and others, with a peaceful and soothing atmosphere, in a warm and nurturing style.",
-                    "content": "So, be kind. Be kind to yourself. Be kind to others. It will make a difference."
+                    "content": "So, be kind.\n\nBe kind to yourself.\n\nBe kind to others.\n\nIt will make a difference."
                 }
             ]
         },
@@ -434,7 +433,7 @@ const book = {
             "pages": [
                 {
                     "image": "An image of a person standing at a crossroads, contemplating their options under a bright sky, in the style of a motivational and inspiring watercolor painting",
-                    "content": "Now you know the secrets. Now you have the tools. What will you do with them? The choice is always up to you. That's the magic of your life - it's about you."
+                    "content": "Now you know the secrets.\n\nNow you have the tools.\n\nWhat will you do with them?\n\nThe choice is always up to you.\n\nThat's the magic of your life - it's about you."
                 },
                 {
                     "image": "An image of a person embracing their loved ones, surrounded by a warm and glowing aura, in the style of an uplifting and heartfelt oil painting",
@@ -492,7 +491,6 @@ const book = {
         },
         "Chapter 14": {
             "title": "Establish a Regular Meditation Practice",
-            "contents": "Meditation is a powerful tool that can help us to live more intentional lives. Meditation helps us to focus our attention on the present moment, and it allows us to let go of the past and future. Meditation is like a shower for our mind and soul. It helps us to relax and to be more mindful of our thoughts and emotions.\n\nThere are many different types of meditation, but the most important thing is to find a type of meditation that works for you. There is no one “right” way to meditate - what matters is that you are able to focus your attention on the present moment.\n\nSome people find it helpful to meditate with their eyes open, while others find it helpful to meditate with their eyes closed. Some people find it helpful to meditate in silence, while others find it helpful to meditate with music or nature sounds. Some people find it helpful to use a mantra or affirmation, while others find it helpful to simply focus on their breath.\n\nThe most important thing is that you find a type of meditation that works for you, and that you make time for it every day. A regular meditation practice is the best habit you can establish. It will make all the difference in your life.\n\nHere are a few meditation techniques you can try:\n\nTechnique 1 - Watch your Breath:\n\nFind a comfortable place to sit, and simply focus your attention on your breath. Watch as your breath goes in and out. Don't try to control your breath, simply observe it. If your mind wanders, simply bring your attention back to your breath.\n\nTechnique 2 - Body Scan:\n\nStart by focusing your attention on your breath. Once you have settled into a rhythm of breathing, begin to scan your body from head to toe, noticing any tension or relaxation in your muscles. Don't try to change anything, simply observe. If your mind wanders, simply bring your attention back to your breath and start again.\n\nTechnique 3 - Guided Meditation:\n\nThere are many guided meditations available online or on apps like Headspace or Calm. Find a guided meditation that you like, and follow along with the instructions. This type of meditation can be especially helpful if you find it difficult to focus your attention on the present moment.\n\nTechnique 4 - Feel your chakras\n\nThis powerful meditation technique both calms and energizes the body and mind. When practiced correctly, it can rapidly transform your life! Only try this once you've established a bit of regularity with your practice. The technique is simple - you will spend your time in meditation first focusing on your third chakra, located just above your navel. As you focus on this chakra, feel the energy swirling around inside of you. Spend about five minutes doing so. When your mind wanders, refocus back onto the chakra Then, move your focus to your fourth chakra, located in the center of your chest. Again, feel the energy swirling around inside of you. Finally, move your focus to your sixth chakra, located in between your eyebrows. Once again, feel the energy swirling around inside of you. This powerful technique will help to calm and focus the mind, while also energizing the body.",
             "pages": [
                 {
                     "image": "An image of a person sitting in a peaceful environment, meditating with eyes closed, surrounded by nature, in the style of a watercolor painting.",
