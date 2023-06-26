@@ -5,23 +5,15 @@ const book = {
             "pages": [
                 {
                     "image": "An image of a person holding an open book with a spark of light coming from the pages, symbolizing the discovery of life-changing wisdom, in the style of a hand-drawn illustration.",
-                    "content": "The Principles taught in this book have many names, but are as timeless as the sky. They're not always easy to swallow, and often even harder to apply. This is the way of any potent medicine. It's not easy to take sometimes. It's uncomfortable, because it asks things of us. But there's also something magical about it - you usually find it exactly when you need it, and when you do it usually tastes sweet."
+                    "content": "The Principles taught in this book have many names, but are as timeless as the sky.\n\nThey're not always easy to swallow, and often even harder to apply.\n\nThis is the way of any potent medicine. It's not easy to take sometimes.\n\nIt's uncomfortable, because it asks things of us.\n\nBut there's also something magical about it - you usually find it exactly when you need it, and when you do it usually tastes sweet."
                 },
                 {
                     "image": "An image of a diverse group of people looking unhappy and lost in their thoughts, surrounded by symbols of modern distractions like phones, food, and social media, in the style of a detailed digital painting.",
-                    "content": "Chances are, you're starting to notice - most people are deeply unhappy. They're lost in their own minds, caught up in a never-ending cycle of worry, stress, and anxiety. They're addicted to their phones, their work, their possessions. They're numbing themselves with food, alcohol, drugs, TV, social media, and anything else they can get their hands on. And they're stuck in a cycle of chasing after things they think will make them happy - only to find that those things never quite deliver."
+                    "content": "Chances are, you're starting to notice - most people are deeply unhappy.\n\nThey're lost in their own minds, caught up in a never-ending cycle of worry, stress, and anxiety.\n\nThey're addicted to their phones, their work, their possessions.\n\nThey're numbing themselves with food, alcohol, drugs, TV, social media, and anything else they can get their hands on.\n\nAnd they're stuck in a cycle of chasing after things they think will make them happy - only to find that those things never quite deliver."
                 },
                 {
                     "image": "An image of a serene, content person surrounded by natural beauty, representing a life rooted in happiness and peace, in the style of a watercolor painting.",
-                    "content": "The principles in this book will show you a different way of living - a way that is rooted in happiness, fulfillment, and peace. A way that is based on your own inner wisdom, and that is in harmony with the natural flow of life."
-                },
-                {
-                    "image": "An image of a person standing at a crossroads holding a compass, representing the principle of taking responsibility for one's own life, in the style of an ink drawing.",
-                    "content": "The first principle is simple, but it is not easy: You are responsible for everything in your life. Every single thing that happens to you is your responsibility. Now, I know that this may not be what you want to hear. It's much easier to blame other people for our problems, or to think that we're victims of circumstance. But the truth is, we are not victims. We are not powerless. We are responsible for our lives, and we have the power to change them."
-                },
-                {
-                    "image": "An image of a person looking at their own reflection in a calm lake, symbolizing the awareness and control over their thoughts, emotions, and actions, in the style of a chiaroscuro painting.",
-                    "content": "It means that you are the creator of your own reality. It means that everything that happens to you is a result of your thoughts, your emotions, and your actions. It means that you are in control of your life, and you have the power to change it. So, if you want to change your life, you have to change your thoughts, emotions, and actions. It's that simple."
+                    "content": "It doesn't have to be that way. You can go a different way, a happier way.\n\nThe principles in this book will enable you to craft a different way of living - a way that is rooted in happiness, fulfillment, and peace.\n\nA way that is based on your own inner wisdom, and that is in harmony with the natural flow of life."
                 }
             ]
         },
@@ -30,23 +22,23 @@ const book = {
             "pages": [
                 {
                     "image": "An image of a person standing confidently with arms crossed, in a bold, empowering style.",
-                    "content": "The first principle is simple, but it is not easy: You are responsible for everything in your life. Every single thing that happens to you is your responsibility."
+                    "content": "The first principle is simple, but it is not easy:\n\nYou are responsible for everything in your life.\n\nEvery single thing that happens to you is your responsibility."
                 },
                 {
                     "image": "An image of a person facing a fork in the road, contemplating their choices, in a thought-provoking, detailed style.",
-                    "content": "This principle may be difficult to accept, but it is the foundation upon which all of the other principles are built. And it is the principle that will have the biggest impact on your life."
+                    "content": "This principle may be difficult to accept, but it is the foundation upon which all of the other principles are built.\n\nAnd it is the principle that will have the biggest impact on your life."
                 },
                 {
                     "image": "An image of a person standing in front of a mirror, reflecting on their thoughts, emotions, and actions, with a introspective and realistic artistic style.",
-                    "content": "What does it mean to take responsibility for everything in your life? It means that you are the creator of your own reality. It means that everything that happens to you is a result of your thoughts, your emotions, and your actions."
+                    "content": "What does it mean to take responsibility for everything in your life?\n\nIt means that you are the creator of your own reality.\n\n It means that everything that happens to you is a result of your thoughts, your emotions, and your actions."
                 },
                 {
                     "image": "An image of a person controlling levers representing thoughts, emotions, and actions, with an empowering and optimistic style.",
-                    "content": "It means that you are in control of your life, and you have the power to change it. Now, I know that this may be hard to believe. After all, there are many things that happen to us that we cannot control."
+                    "content": "It means that you are in control of your life, and you have the power to change it.\n\nNow, I know that this may be hard to believe. After all, there are many things that happen to us that we cannot control."
                 },
                 {
                     "image": "An image of a person adjusting their mindset, represented by gears in their head, in an insightful and educational art style.",
-                    "content": "But what we can control is our own thoughts, emotions, and actions. And it is our thoughts, emotions, and actions that create our reality. So, if you want to change your life, you have to change your thoughts, emotions, and actions. It's that simple."
+                    "content": "But what we can control is our own thoughts, emotions, and actions.\n\nAnd it is our thoughts, emotions, and actions that create our reality.\n\nSo, if you want to change your life, change your thoughts, emotions, and actions. It's that simple."
                 }
             ]
         },
@@ -59,19 +51,19 @@ const book = {
                 },
                 {
                     "image": "An image of a person looking at an hourglass, with sand pouring down, representing the passing of time, in a minimalist style",
-                    "content": "Arthur Schopenhauer - \"Death is the absolute end of a good many things, but not of the capacity to feel.\"\n\nHave you ever thought about death and felt a deep anxiety, only to retreat from the feeling into whatever distraction is available? That's the default reaction most people take, and it is understandable: death is scary. It's the great unknown, and it reminds us of our own mortality. It's perhaps the only thing that we all have in common, and one thing that we can all be sure of."
+                    "content": "Arthur Schopenhauer - \"Death is the absolute end of a good many things, but not of the capacity to feel.\"\n\nHave you ever thought about death and felt a deep anxiety, only to retreat from the feeling into whatever distraction is available?\n\nThat's the default reaction most people take, and it is understandable: death is scary.\n\nIt's the great unknown, and it reminds us of our own mortality.\n\nIt's perhaps the only thing that we all have in common, and one thing that we can all be sure of."
                 },
                 {
                     "image": "An abstract image of the concept of death as a wise teacher and old friend, illustrated by a silhouette of a wise old figure with a kind expression, in the style of a modern digital art",
-                    "content": "But death is also a gift - it is an advisor, a wise teacher, an old friend. It reminds us that we are not here forever, and that time is precious. It keeps us grounded and unattached to the things that don't matter."
+                    "content": "But death is also a gift - it is an advisor, a wise teacher, an old friend.\n\nIt reminds us that we are not here forever, and that time is precious.\n\nIt keeps us grounded and unattached to the things that don't matter."
                 },
                 {
                     "image": "A serene image of a person meditating with their eyes closed, surrounded by the silhouette of a Buddha, symbolizing befriending death, in the style of a monochromatic illustration",
-                    "content": "There are two ways to approach the idea of death: one is to ignore it, and the other is to befriend it.\n\nMost people choose the former, but it is not the wisest choice. As the saying goes, if you're not prepared to look death in the eye, you won't see life in its fullness.\n\nThe first step in befriending death is to stop fearing it. This is not easy, as there are few things more terrifying than the thought of your own death. But there is no getting around it - if you want to live a life of happiness, fulfillment, and peace, you have to befriend death."
+                    "content": "There are two ways to approach the idea of death: one is to ignore it, and the other is to befriend it.\n\nMost people choose the former, but it is not the wisest choice. As the saying goes, if you're not prepared to look death in the eye, you won't see life in its fullness.\n\nThe first step in befriending death is to stop fearing it.\n\nThis is not easy, as there are few things more terrifying than the thought of your own death.\n\nBut there is no getting around it - if you want to live a life of happiness, fulfillment, and peace, you have to befriend death."
                 },
                 {
                     "image": "A surrealist depiction of a person transcending their physical body, emphasizing the connections to consciousness and spirituality, in the style of a Salvador Dali painting",
-                    "content": "The ancient Buddhists called death the \"great liberator\", because it releases us from the bondage of our small selves. It reminds us that we are not the body, that we are consciousness itself, and that our attachment to things is an illusion. It teaches us to live in the moment, and to find joy in the simple things in life."
+                    "content": "The ancient Buddhists called death the \"great liberator\", because it releases us from the bondage of our small selves.\n\nIt reminds us that we are not the body, that we are consciousness itself, and that our attachment to things is an illusion.\n\nIt teaches us to live in the moment, and to find joy in the simple things in life."
                 },
                 {
                     "image": "A person floating in an ethereal, cosmic space representing the concept of consciousness beyond the physical body, in the style of a visionary artwork",
@@ -88,7 +80,7 @@ const book = {
                 },
                 {
                     "image": "An image of a person weighed down by a heavy backpack symbolizing the burden of self-importance, seeking approval from others in a crowd, in the style of a metaphorical painting.",
-                    "content": "Have you ever noticed just how much work it is feeling self-important? What does it feel like to be constantly seeking approval? How much energy do you spend in your day seeking approval that never satisfies even when you do get it? Most of us spend a large amount of time of our lives doing this.\n\nIt's exhausting, isn't it?\n\nFeeling self-important is the ego's way of feeling safe in a chaotic world. It's a set of armor that protects us from feeling vulnerable. It's a strategy for feeling like we have control over our lives. It's a way of feeling special, unique, and important."
+                    "content": "Have you ever noticed just how much work it is feeling self-important?\n\nWhat does it feel like to be constantly seeking approval?\n\nHow much energy do you spend in your day seeking approval that never satisfies even when you do get it?\n\nMost of us spend a large amount of time of our lives doing this.\n\nIt's exhausting, isn't it?\n\nFeeling self-important is the ego's way of feeling safe in a chaotic world. It's a set of armor that protects us from feeling vulnerable. It's a strategy for feeling like we have control over our lives. It's a way of feeling special, unique, and important."
                 },
                 {
                     "image": "An image of a person looking at themselves in a shattered mirror, with each broken piece reflecting a different aspect of their self-importance, in the style of a surreal illustration.",
@@ -125,31 +117,31 @@ const book = {
                 },
                 {
                     "image": "An image of a person standing at the edge of a cliff, gazing into the distance, symbolizing the anticipation of waiting, in a cinematic style.",
-                    "content": "How many people do you know that are waiting for something to happen? They're waiting for a new job, waiting for a promotion, waiting for a relationship, waiting for the kids to grow up, waiting for retirement, waiting for the next big thing."
+                    "content": "How many people do you know that are waiting for something to happen?\n\nThey're waiting for a new job, waiting for a promotion, waiting for a relationship, waiting for the kids to grow up, waiting for retirement, waiting for the next big thing."
                 },
                 {
                     "image": "An image of a calendar with various events marked, representing waiting for different events, in a modern, minimalist style.",
-                    "content": "They're waiting for the weekend, for a vacation, for the next paycheck, for the next big sale, for the last episode of their favorite TV show, for the next concert, for the next big game, for the next big election."
+                    "content": "They're waiting for the weekend, for a vacation, for the next paycheck, for the next big sale, for the last episode of their favorite TV show, for the next concert, for the next big game, for the next big election"
                 },
                 {
                     "image": "An illustration of a person waiting at a bus stop, with a clock and the word 'waiting' in the background, in a graphic novel style.",
-                    "content": "Endlessly waiting. Never going, never doing, never taking any action."
+                    "content": "Endlessly, constantly waiting.\n\nNever going, never doing, never taking any action - and dying inside."
                 },
                 {
                     "image": "An image of a person sitting in a dimly lit room, symbolizing a state of waiting and not living, in the style of an introspective, dramatic painting.",
-                    "content": "Waiting is the opposite of living. It's like living in a coma. It's like being in a trance."
+                    "content": "Waiting is the opposite of living.\n\nIt's like living in a coma. It's like being in a trance."
                 },
                 {
                     "image": "An image of a person taking a courageous leap off a cliff into the water below, symbolizing living in the present moment, in a vibrant, colorful style.",
-                    "content": "Start living your life right now. Not later. Not when your life is more perfect. Not when you have more money. Those things may never come, if you wait. So act!"
+                    "content": "Start living your life right now.\n\nNot later.\n\nNot when your life is more perfect. Not when you have more money.\n\nThose things may never come, if you wait.\n\nSo act!"
                 },
                 {
                     "image": "An illustration of a person pushing themselves outside of their comfort zone, engaging in new experiences and taking risks, in a motivational, energetic style.",
-                    "content": "Sometimes in order to live this principle you have to be willing to take some risks. To have some fun too! Pushing ourselves into new experiences is what exposes us to new possibilities, new opportunities, new jobs and new relationships. You also might find that you enjoy the process of taking risks."
+                    "content": "Sometimes in order to live this principle you have to be willing to take some risks.\n\nTo have some fun too!\n\nPushing ourselves into new experiences is what exposes us to new possibilities, new opportunities, new jobs and new relationships.\n\nYou also might find that you enjoy the process of taking risks."
                 },
                 {
                     "image": "An illustration of a person meditating in nature, surrounded by symbols of the past, present, and future, in a serene, atmosphere.",
-                    "content": "The only way to live is in the present moment. The past is a memory. It's a memory that you can't change. The future is a dream. It's a dream you have yet to realize. The present moment is the only moment that exists. The present moment is all you have."
+                    "content": "The only way to live is in the present moment.\n\nThe past is a memory. It's a memory that you can't change.\n\nThe future is a dream. It's a dream you have yet to realize.\n\nThe present moment is the only moment that exists.\n\nThe present moment is all you have."
                 }
             ]
         },
@@ -158,23 +150,23 @@ const book = {
             "pages": [
                 {
                     "image": "An image of a person sitting in a cluttered room filled with various distractions, such as a TV, smartphone, and books, with their eyes closed and a look of concentration, in the style of a modern illustration.",
-                    "content": "We live in an age of attention deficit. Our media bombards us with information, but rarely presents us with a meaningful perspective. We are being told what to think and how to feel, instead of being given the space to think for ourselves. All of this incoming information, minus any type of mental exercise, has left us flustered and frustrated."
+                    "content": "We live in an age of attention deficit.\n\nOur media bombards us with information, but rarely presents us with a meaningful perspective.\n\nWe are being told what to think and how to feel, instead of being given the space to think for ourselves.\n\nAll of this incoming information, minus any type of mental exercise, has left us flustered and frustrated."
                 },
                 {
                     "image": "An image of a person with a magnifying glass, focusing on a single object while pushing away other distractions, in the style of a minimalist drawing.",
-                    "content": "Attention is the lens through which we experience our world. It is the filter we use to determine what is important and what is not. It is our ability to focus on the things we want to focus on, and to ignore the things that don't matter. Unfortunately, most of us have lost the ability to filter out the unnecessary."
+                    "content": "Attention is the lens through which we experience our world.\n\nIt is the filter we use to determine what is important and what is not.\n\nIt is our ability to focus on the things we want to focus on, and to ignore the things that don't matter.\n\nUnfortunately, most of us have lost the ability to filter out the unnecessary."
                 },
                 {
                     "image": "An image of a person practicing mindfulness, sitting in a natural environment with their eyes closed and meditating, surrounded by trees and clear sky, rendered in a watercolor style.",
-                    "content": "The good news is that by becoming aware of what catches our attention, we can learn to manage and control it. By learning to focus on the things that matter, we can take control of our own lives, instead of allowing the world to control us."
+                    "content": "The good news is that by becoming aware of what catches our attention, we can learn to manage and control it.\n\nBy learning to focus on the things that matter, we can take control of our own lives, instead of allowing the world to control us."
                 },
                 {
                     "image": "An image of a person lifting weights for their body while another person lifts weights representing mental exercises, such as focusing or meditation, to strengthen their attention, illustrated in a comic book style.",
-                    "content": "In the west, we spend so much of our time on appearances. We work out endlessly, obsessively monitoring our diet. We purchase expensive products, to make sure we are always looking our best. We spend so much time and energy on our bodies. Why aren't we working out our minds to learn how to pay attention, to learn how to live?"
+                    "content": "In the west, we spend so much of our time on appearances.\n\nWe work out endlessly, obsessively monitoring our diet.\n\nWe purchase expensive products, to make sure we are always looking our best.\n\nWe spend so much time and energy on our bodies.\n\nWhy aren't we working out our minds to learn how to pay attention, to learn how to live?"
                 },
                 {
                     "image": "An image of a person breaking free from chains representing distractions, mental barriers, and external influences, stepping towards a more mindful and attentive life, depicted in a bold graphic style.",
-                    "content": "In order to take control of your own life, you must take control of your attention. You must learn to focus your attention on what is important, and ignore the rest. You must learn how to lead your own life, instead of letting life lead you."
+                    "content": "In order to take control of your own life, you must take control of your attention.\n\nYou must learn to focus your attention on what is important, and ignore the rest.\n\nYou must learn how to lead your own life, instead of letting life lead you."
                 }
             ]
         },
