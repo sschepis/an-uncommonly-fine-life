@@ -183,23 +183,23 @@ const book = {
                 },
                 {
                     "image": "An image of a brain connected to various sensors, receiving signals from a person's eyes, ears, nose, and other sensory organs, in the style of a colorful infographic.",
-                    "content": "The world is not what it seems. It is an illusion created by your own mind. What is meant by this? Let's take a look at the way that our senses work. Our senses are biological sensors which communicate with our brains through nerve signals. The sense organs themselves take some time to respond to stimulus, and even the nerve message doesn't get to your brain instantaneously - it takes some time for the electrical signal to travel along the length of the nerve. By the time the signal reaches your brain, it is already delayed."
+                    "content": "The world is not what it seems.\n\nIt is an illusion created by your own mind.\n\nWhat is meant by this?\n\nLet's take a look at the way that our senses work.\n\nOur senses are biological sensors which communicate with our brains through nerve signals.\n\nThe sense organs themselves take some time to respond to stimulus, and even the nerve message doesn't get to your brain instantaneously - it takes some time for the electrical signal to travel along the length of the nerve.\n\nBy the time the signal reaches your brain, it is already delayed."
                 },
                 {
                     "image": "An image of a person standing in front of a table, with the individual atoms and molecules making up the table visible, in the style of a blend between reality and an x-ray vision.",
-                    "content": "Your brain then takes this information and creates a model of reality based on what it receives from your senses. This model is not reality itself, but only a representation of reality. It is an illusion created by your mind.\n\nHow do we know that the world we see is an illusion? Because our brains are constantly filling in the gaps. For example, when you look at a table, you don't see all the individual atoms that make up the table, you see the illusion of a table. Your brain has created this illusion based on the information it receives from your senses."
+                    "content": "Your brain then takes this information and creates a model of reality based on what it receives from your senses.\n\nThis model is not reality itself, but only a representation of reality.\n\nIt is an illusion created by your mind.\n\nHow do we know that the world we see is an illusion?\n\nBecause our brains are constantly filling in the gaps.\n\nFor example, when you look at a table, you don't see all the individual atoms that make up the table, you see the illusion of a table.\n\nYour brain has created this illusion based on the information it receives from your senses."
                 },
                 {
                     "image": "An image of a person looking at a clock, with the hands appearing as a blur, symbolizing the concept of always living in the past due to sensory delays, in the style of a thought-provoking surrealist painting.",
-                    "content": "In fact, there has never been a single moment in time when you experienced the present moment through the senses. All sense experience is delayed. You are always living in the past."
+                    "content": "In fact, there has never been a single moment in time when you experienced the present moment through the senses.\n\nAll sense experience is delayed.\n\nYou are always living in the past, if you only live in the senses."
                 },
                 {
                     "image": "An image of a person painting their own world onto a canvas, with elements such as a bright sun, green meadows, and a peaceful river, representing the power of creating our own reality, in the style of a whimsical and inspiring illustration.",
-                    "content": "This is not to say that the world is not real, only that what we experience is not reality itself, but only a representation of reality. It is an illusion created by our mind.\n\nIt's important to know this because it means that we have the power to create our own reality.\n\nIf the world we experience is an illusion created by our mind, then we have the power to change that illusion. We can choose what we want to focus on. We can choose what we want to believe. We can create our own reality."
+                    "content": "This is not to say that the world is not real, only that what we experience is not reality itself, but only a representation of reality.\n\nIt is an illusion created by our mind.\n\nIt's important to know this because it means that we have the power to create our own reality.\n\nIf the world we experience is an illusion created by our mind, then we have the power to change that illusion.\n\nWe can choose what we want to focus on.\n\nWe can choose what we want to believe. We can create our own reality."
                 },
                 {
                     "image": "An image of a person at a crossroads, with one path leading to a bright and welcoming world and the other leading to a dark and negative world, showcasing the choice between positive and negative perspectives, in the style of an impactful and symbolic illustration.",
-                    "content": "This doesn't mean that we can change the physical world, but we can change our experience of the world. We can choose to focus on the positive instead of the negative. We can choose to see the world as a friendly place instead of a hostile place. We can choose to believe that we are capable and competent instead of believing that we are powerless and incapable.\n\nWhen we change the way we see the world, we change the world we see, and we also naturally change the responses we have to the world.\n\nIf you want to change your life, change the way you see the world."
+                    "content": "This doesn't mean that we can change the physical world, but we can change our experience of the world.\n\nWe can choose to focus on the positive instead of the negative.\n\nWe can choose to see the world as a friendly place instead of a hostile place.\n\nWe can choose to believe that we are capable and competent instead of believing that we are powerless and incapable.\n\nWhen we change the way we see the world, we change the world we see, and we also naturally change the responses we have to the world.\n\nIf you want to change your life, change the way you see the world."
                 }
             ]
         },
@@ -224,7 +224,7 @@ const book = {
                 },
                 {
                     "image": "An abstract representation of quantum mechanics, featuring an observer with eyes wide open, observing a dynamic, changing universe filled with particles and waveforms, drawn in a vibrant and engaging style.",
-                    "content": "Quantum mechanics reveals a very interesting thing: in quantum physics, the observer is prioritized above all else - the laws of quantum mechanics state that reality must always be causally consistent, above any 'derived' observation."
+                    "content": "Quantum mechanics reveals a very interesting thing:\n\nThe observer is prioritized above all else - the laws of quantum mechanics state that reality must always be causally consistent from the observer's point of view, even at the cost of any derived global observer we might use to explain the universe."
                 },
                 {
                     "image": "A thought-provoking illustration of a person gazing into a mirror, the reflection showing a different reality based on their observation, with elements of quantum mechanics and wave-particle duality incorporated in a visually striking manner.",
@@ -232,11 +232,11 @@ const book = {
                 },
                 {
                     "image": "A conceptual image of a person holding a paintbrush and painting their surroundings with new colors, symbolizing the change of observation and the creation of their own reality, executed in an imaginative and immersive style.",
-                    "content": "If we want to change our reality, we need to change our observation. We need to change the way we see the world."
+                    "content": "Science itself says that if we want to change our reality, we need to change our observation.\n\nWe need to change the way we see the world."
                 },
                 {
                     "image": "A motivational illustration of an individual standing at the center of a labyrinth, each path offering different thoughts, emotions, and beliefs to choose from, done in an inspiring, fantastical art style.",
-                    "content": "Practically, this starts wherever you one. Choose what you want to focus on. Choose what you want to believe. Be intentional about the thoughts you think and the emotions you feel. When you do this, you will start to see changes in your life. The world around you will start to change to match your new reality."
+                    "content": "Practically, this starts wherever you one.\n\nChoose what you want to focus on.\n\nChoose what you want to believe.\n\nBe intentional about the thoughts you think and the emotions you feel.\n\nWhen you do this, you will start to see changes in your life.\n\nThe world around you will start to change to match your new reality."
                 }
             ]
         },
@@ -250,15 +250,15 @@ const book = {
                 },
                 {
                     "image": "A minimalist illustration of intertwined clocks and sand hourglasses, symbolizing time as an illusion, with a bright color palette.",
-                    "content": "The present moment is the only moment we have. It is the door to all moments. The past is a memory, the future is a dream, but the present is a gift.\n\nWe have been raised to believe that time is a linear concept - that it moves in a straight line from the past to the future. However, this is not true. Time is a created thing. It is an illusion."
+                    "content": "The present moment is the only moment we have. It is the door to all moments. The past is a memory, the future is a dream, but the present is a gift.\n\nWe have been raised to believe that time is a linear concept - that it moves in a straight line from the past to the future. \n\nHowever, this is not true.\n\nTime is a created thing. It is an illusion."
                 },
                 {
                     "image": "A person walking on a tightrope, symbolizing balance and focus, between two cliffs representing the past and the future, in a monochromatic sketch style.",
-                    "content": "The present moment is all there is. It is the only moment we have to live. And yet, we spend so much of our time living in the past or the future. We think about the things we have to do, or the things we have done. We worry about what might happen, or what could have happened. We are always living in our heads, instead of in the present moment."
+                    "content": "The present moment is all there is.\n\nIt is the only moment we have to live.\n\nAnd yet, we spend so much of our time living in the past or the future.\n\nWe think about the things we have to do, or the things we have done.\n\nWe worry about what might happen, or what could have happened.\n\nWe are always living in our heads, instead of in the present moment."
                 },
                 {
                     "image": "A vibrant watercolor painting of a person joyfully experiencing the present moment, with their arms wide open, standing in a field of flowers under a sunlit sky.",
-                    "content": "The present moment is a gift. It is a miracle. It is the only moment we have to live.\n\nIn order to live a happy and fulfilled life, we need to learn how to be in the present moment. This is where a regular meditation practice can be incredibly helpful. Meditation allows us to focus our attention on the present moment, and to let go of the thoughts and worries that keep us trapped in the past or the future.\n\nWhen we learn how to be in the present moment, we learn how to live. We learn how to enjoy our lives, instead of just surviving from one moment to the next. We learn how to be happy, instead of just chasing after happiness."
+                    "content": "The present moment is a gift. It is a miracle. It is the only moment we have to live.\n\nIn order to live a happy and fulfilled life, we need to learn how to be in the present moment.\n\nThis is where a regular meditation practice can be incredibly helpful.\n\nMeditation allows us to focus our attention on the present moment, and to let go of the thoughts and worries that keep us trapped in the past or the future.\n\nWhen we learn how to be in the present moment, we learn how to live. We learn how to enjoy our lives, instead of just surviving from one moment to the next. We learn how to be happy, instead of just chasing after happiness."
                 }
             ]
         },
