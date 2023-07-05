@@ -1,216 +1,394 @@
 .parallax-container {
   width: 100%;
   height: 100%;
-  text-align: center;
 }
-.parallax-chapter {
-  width: 100%;
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  text-align: center;
-}
+
 html {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  height: 100%;
+  background: #090a0f;
   color: #fff;
+}                    
+
+.parallax-content {
+  padding: 40px;
+  min-height: 200px;
+  max-width: 800px;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: transparent;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.5em;
+  text-align: center;
 }
+
 .content {
   color: #fff;
   text-align: center;
   position: absolute;
   top: 50%;
   left: 50%;
-  padding-top: 400px;
-  width: 100%;
+  padding-top: 100px;
   transform: translate(-50%, -50%);
-  z-index: 111;
-}
-.content h1 {
-  margin-top: 0px;
-  margin-bottom: 10px;
-  font-weight: 500;
-  font-size: 4.5em;
+  max-width: 800px;
+  margin: auto;
   font-family: "Times New Roman", Times, serif;
-  line-height: 1.5;
-  /* we need a color that will stand out on both light and dark backgrounds that isn't #000 or #fff */
-  /* try: #ff0, #0ff, #f0f, #0f0, #00f, #f00 */;
-}
-.content h2 {
-  margin-top: 0px;
-  margin-bottom: 10px;
-  font-weight: 500;
-  font-size: 2.5em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1.5;
-  /* we need a color that will stand out on both light and dark backgrounds that isn't #000 or #fff */
-}
-.content a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 1.5em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1.5;
 }
 
-.plain-content {
-  min-height: 200px;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-  font-size: 1.8em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1.5;
-  max-width: 100%;
-  overflow: hidden;
+@media screen and (min-width: 900px) {
+  .parallax-content {
+      padding: 80px;
+  }
 
+  .content {
+      padding-top: 200px;
+  }
 }
-.plain-content-text {
 
-  text-align: center;
-  padding: 150px;
-}
-.plain-content h1 {
-  margin-top: 0px;
-  margin-bottom: 10px;
-  font-weight: 500;
-  font-size: 3.5em;
-}
-.timeline {
-  position: fixed;
-  z-index: 3000;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60px;
-  background-color: #000;
-  color: #fff;
+.content form {
   display: flex;
-  flex-direction: row;
-  justify-content: flex-start;
-  align-items: center;
-  padding: 0 10px;
-  font-size: 0.7em;
-}
-.timeline .page {
-  height: 50px;
-  display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid #333;
-  margin-right: 0%;
-  width: 30px;
-  cursor: pointer;
-}
-.timeline .page.current {
-  background-color: #fff;
-  color: #000;
-}
-.tick {
-  position: absolute;
-  bottom: 0;
-  width: 1px;
-  height: 50px;
-  background-color: #fff;
-  opacity: 0.5;
-  z-index: 3100;
-}
-.tick.current {
-  opacity: 1;
+  gap: 10px;
 }
 
-/* the cover panel is the first thing that appears when the page loads */
-.cover {
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+.content h2 {
+  font-size: 2em;
+  text-align: center;
 }
 
-.section-toc {
-  margin-top: 50px;
-  margin-bottom: 50px;
+.content input[type=email] {
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
 }
 
-.toc {
+.content input[type=submit] {
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: none;
+  background-color: #0a0a0a;
+  color: #fff;
+}
+
+.parallax-animation-panel {
+  position: relative;
+  width: 100%;
+  min-height: 600px;
+}
+
+/* Animation Panel Element */
+.parallax-animation-panel-element {
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.5);
-  color: white;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  font-size: 1em;
-  font-family: sans-serif;
-  margin-top: 0px;
 }
-/* the first TOC element */
-.toc .chapter {
-  margin: 0.5em;
-  padding: 2.5em;
-  border-radius: 5px;
-  background: rgba(0,0,0,1);
-  font-size: 1em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1;
+
+.parallax-scene {
+  width: 100%;
+  height: auto;
+  padding: 20px;
 }
-.toc h2 {
-  margin: 0.5em;
-  font-size: 2em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1.0;
+
+@keyframes fade-in {
+  0% {
+      opacity: 0;
+  }
+
+  100% {
+      opacity: 1;
+  }
 }
-.toc .pages {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+
+@keyframes fade-out {
+  0% {
+      opacity: 1;
+  }
+
+  100% {
+      opacity: 0;
+  }
 }
-.toc .page {
-  margin: 0.5em;
-  padding: 0.5em;
-  border-radius: 5px;
-  background: rgba(0,0,0,1);
-  font-size: 1em;
-  font-family: "Times New Roman", Times, serif;
-  line-height: 1;
-}
-.toc .page a {
-  color: white;
+
+.parallax-navigator a {
+  display: block;
+  padding: 5px;
+  color: #000;
   text-decoration: none;
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+.parallax-navigator a.active {
+  background: #000;
+  color: #fff;
+}
+
+.parallax-navigator {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  background: transparent;
+  z-index: 9999;
+}
+
+.parallax-navigator a {
+  color: #fff;
+  font-size: 1.5em;
+}
+
+.parallax-navigator a:hover {
+  color: #add8e6;
 }
 
 .starfield {
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  right: 0;
-  bottom: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  z-index: -1;
+  animation: moveStar 500s linear infinite;
 }
 
-.newsletter-signup {
-  background-color: #000000;
-  color: #ffffff;
-  padding: 20px;
-  margin: 20px;
-  border-radius: 10px;
-}
-.newsletter-signup h2 {
-  margin: 0px;
-}
-.newsletter-signup p {
-  margin: 0px;
-}
-.newsletter-signup .form {
-  margin: 10px;
-}
-.newsletter-signup .form-input {
-  margin: 10px;
-}
-.newsletter-signup .form-input.submit {
-  margin: 10px;
+.star {
+  position: absolute;
   background-color: #ffffff;
-  color: #000000;
-  border-radius: 10px;
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  z-index: -1;
+}
+
+@keyframes moveStar {
+  from {
+      transform: translateY(0px);
+  }
+
+  to {
+      transform: translateY(-2000px);
+  }
+}
+
+.hamburger-menu {
+  margin-top: 20px;
+  position: fixed;
+  top: 80;
+  left: 40;
+  z-index: 9999;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  cursor: pointer;
+}
+
+.hamburger {
+  width: 2rem;
+  height: 3px;
+  background-color: #fff;
+  position: relative;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.hamburger::before,
+.hamburger::after {
+  content: "";
+  background-color: #fff;
+  width: 2rem;
+  height: 3px;
+  position: absolute;
+  z-index: 9999;
+  left: 0;
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.hamburger::before {
+  transform: translateY(-0.5rem);
+  cursor: pointer;
+}
+
+.hamburger::after {
+  transform: translateY(0.5rem);
+  cursor: pointer;
+}
+
+.hamburger-menu.open .hamburger::before {
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+.hamburger-menu.open .hamburger::after {
+  transform: rotate(-45deg);
+  cursor: pointer;
+}
+
+.menu-items {
+  margin: 0.5rem 0;
+}
+
+.menu-items a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 1.5rem;
+  transition: color 0.3s;
+  padding-top: -0.5rem;
+}
+
+.parallax-part {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.parallax-part h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 3em;
+  text-align: center;
+  color: #fff;
+} 
+
+.parallax-chapter {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.parallax-chapter h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2em;
+  color: #fff;
+  text-align: center;
+  margin-top: -250px;
+  margin-bottom: 250px;
+}
+
+.parallax-animation-panel .parallax-scene {
+  height: 600px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.parallax-animation-panel .parallax-scene .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.parallax-animation-panel .parallax-scene .content h1 {
+  font-size: 4rem;
+  margin: 0;
+}
+
+.parallax-animation-panel .parallax-scene .content h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.parallax-animation-panel .parallax-scene .content p {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.parallax-animation-panel .parallax-scene .content a {
+  font-size: 1.5rem;
+  margin: 0;
+  color: #fff;
+  text-decoration: none;
+}
+
+.parallax-book-cover {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.parallax-book-scene {
+  height: 100vh;
+  width: 100vw;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.parallax-toc {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: transparent;
+  overflow: hidden;
+}
+
+.parallax-toc h1 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.toc {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc li {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.toc a:hover {
+  color: #ccc;
+}
+
+.parallax-toc .content {
+  color: #fff;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
 }
