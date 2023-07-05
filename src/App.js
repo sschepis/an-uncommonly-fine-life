@@ -167,7 +167,7 @@ const ParallaxBookCover = ({ title, author, image, height = '600px', animationTi
 }
 
 const ParallaxNewsletterSignupPanel = ({ id, image, height = '600px' }) => (
-    <div className="parallax-animation-panel" id={id}>
+    <div className="parallax-newsletter-signup" id={id}>
         <Parallax
             bgImage={image}
             bgImageAlt="Newsletter-signup-image"
@@ -175,7 +175,7 @@ const ParallaxNewsletterSignupPanel = ({ id, image, height = '600px' }) => (
             className="parallax-scene" // Add class here to control the size of image
             style={{ height }} // Set the height of the Parallax component
         >
-            <div className="content parallax-animation-panel-element">
+            <div className="content parallax-newsletter-signup-element">
                 <form>
                     <h2>Signup for our Newsletter</h2>
                     <input type="email" name="email" placeholder="Enter your email" required />
@@ -185,7 +185,6 @@ const ParallaxNewsletterSignupPanel = ({ id, image, height = '600px' }) => (
         </Parallax>
     </div>
 );
-
 
 const ParallaxNavigator = ({ panels, id }) => (
     <div id={id} className="parallax-navigator">
@@ -384,15 +383,18 @@ const ParallaxBook = ({ book }) =>{
                     );
                 case 'page':
                     const page = item;
-                    const pageNum = pageNumber++;
+                    let pageNum = pageNumber++;
                     const imgGroup = Math.floor(Math.random() * 5) + 1;
+                    if(pageNum > 141) {
+                        pageNum -= 30;
+                    }
                     // get a random number between 0 and 4
                     output.push (
                         <ParallaxPanel
                             id={pageNum}
                             key={pageNum}
                             content={page.content}
-                            image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + imgGroup + "/" + 1 + ".png"}
+                            image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + imgGroup + "/" + pageNum + '.png'}
                             overImageContent={page.overImageContent}
                         />
                     );
@@ -438,6 +440,9 @@ const ParallaxBook = ({ book }) =>{
     //     ]}
     // /> 
 
+    const imgGroup = Math.floor(Math.random() * 5) + 1;
+    let pageNum = 1;
+
     return (  <StarfieldBackground children={
     <ParallaxContainer id="parallax-container">
         <ParallaxBookCover
@@ -454,7 +459,7 @@ const ParallaxBook = ({ book }) =>{
         }))}
         <ParallaxNewsletterSignupPanel
             id="newsletter-signup"
-         
+            image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + imgGroup + "/" + pageNum + '.png'}
             height="600px"
         />
     </ParallaxContainer>} />

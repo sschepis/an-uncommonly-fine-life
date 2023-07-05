@@ -392,3 +392,53 @@ h2 {
   opacity: 0;
   transition: opacity 0.5s ease-in-out;
 }
+
+
+.parallax-newsletter-signup {
+  position: relative;
+  height: 600px;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.parallax-newsletter-signup .parallax-scene {
+  height: 100%;
+  width: 100%;
+}
+
+.parallax-newsletter-signup .parallax-newsletter-signup-element {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallax-newsletter-signup .parallax-newsletter-signup-element form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.parallax-newsletter-signup .parallax-newsletter-signup-element form h2 {
+  margin-bottom: 20px;
+}
+
+.parallax-newsletter-signup .parallax-newsletter-signup-element form input {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  width: 300px;
+  font-size: 16px;
+}
+
