@@ -323,38 +323,8 @@ const book = {
                     "image": 3    
                 }, 
                 { 
-                    "content": "To live freely, you must not take the world personally. Do not interpret the behavior of others as statements about your worth. Their actions are projections of their own reality, not a reflection of you.",                    "image": 4
-                },
-                {
-                    "content": "Respond to situations with wisdom and compassion instead of egoic hurt. See events as they are instead of coloring them with personal interpretation. Other people's cruelty says nothing about you - it speaks only of their own pain and limitations.", 
-                    "image": 5
-                },
-                {
-                    "content": "You alone know your true value. Do not let external events shake your confidence in yourself. Take a step back and view situations objectively. Then choose to respond with wisdom and grace instead of hurt or anger. This is the path to freedom - freedom from judgement, egoic control and the tyranny of circumstance. You alone hold the power over your sense of self.", 
-                    "image": 6
-                }        
-            ]
-
-        },
-        "Chapter 11": {
-            "type": "chapter",
-            "title": "Live with Intention",
-            "contents": "\"The two most important days in your life are the day you are born and the day you find out why.\" - Mark Twain\n\n\"You are never too old to set new goals or to dream a new dream.\" - C. S. Lewis\n\n\"The future belongs to those who believe in the beauty of their dreams.\" - Eleanor Roosevelt\n\nIt is never too late to set new goals or to dream a new dream. The laws of attraction are clear - what you focus on, you become.\n\nWhen you live with intention you tell the Universe that you're ready for more. You step into your power. You create your reality.\n\nLiving with intention means being conscious with the choices that you make, whatever they might be. Doing this is simple - when you are acting in the world, carve out a portion of your conscious attention which you dedicate solely towards observing yourself acting. \n\nThe way you do this is through repetition - it's not something that takes a day or even a year to develop - it's a lifelong process of learning.\n\nIt's important to practice intention without judgment or expectation. Critical, even. You're not really trying to do or accomplish anything with this portion of yourself - just be present with yourself. Bring judgment or a goal-orientation to this activity tends to reinforce those tendencies, not diminish them. Just observe, without judgment.\n\nYou can't help but receive information, anyways - you'll find very quickly that the information you receive from this activity informs your life in all kinds of positive ways.",
-            "pages": [
-                {
-                    "content": "Most of us spend our lives taking everything personally. We are overly sensitive to the words and actions of those around us, and we interpret them as direct reflections on our worth and value.",          
-                    "image": 1   
-                },
-                {
-                    "content": "But the truth is, other people's behavior says more about them than about you. Their judgments and criticisms reflect their own limitations, fears and lack of understanding.",
-                    "image": 2
-                },
-                {
-                    "content": "When you take things personally, you give away your power. You let the words and actions of others determine your self-esteem and control your emotions. You become a slave to their whims and subject to their abuse.",   
-                    "image": 3    
-                }, 
-                { 
-                    "content": "To live freely, you must not take the world personally. Do not interpret the behavior of others as statements about your worth. Their actions are projections of their own reality, not a reflection of you.",                    "image": 4
+                    "content": "To live freely, you must not take the world personally. Do not interpret the behavior of others as statements about your worth. Their actions are projections of their own reality, not a reflection of you.",                   
+                    "image": 4
                 },
                 {
                     "content": "Respond to situations with wisdom and compassion instead of egoic hurt. See events as they are instead of coloring them with personal interpretation. Other people's cruelty says nothing about you - it speaks only of their own pain and limitations.", 
@@ -442,7 +412,7 @@ const book = {
             "title": "The Importance of Good Habits",
             "pages": [
                 {
-                    "content": "Chapter 13: The Importance of Good Habits\n\nGood habits are critical to an intentional life. As we live our lives, we pick up a number of bad habits along the way, and it's up to us to break these habits for the sake of our own health, happiness, and peace. There are many bad habits we might have, but I will focus on just a few of them here:\n\nSmoking\nNarcotic Abuse\nAlcohol Abuse\nGambling\nExcessive Eating or Overeating\nCompulsive Shopping\nExcessive Worrying or Stressful Thinking\nToo much TV-watching."
+                    "content": "Good habits are critical to an intentional life. As we live our lives, we pick up a number of bad habits along the way, and it's up to us to break these habits for the sake of our own health, happiness, and peace. There are many bad habits we might have, but I will focus on just a few of them here:\n\nSmoking\nNarcotic Abuse\nAlcohol Abuse\nGambling\nExcessive Eating or Overeating\nCompulsive Shopping\nExcessive Worrying or Stressful Thinking\nToo much TV-watching."
                 },
                 {
                     "content": "Smoking: Smoking is an addiction that we're all familiar with - it's high time we stop. What I want to focus on here are just three ways in which many people have found success in breaking the habit:\n- Join a support group for quitting smoking\n- Invest in your physical health by eating healthy, exercising, and getting enough sleep\n- Develop a meditation practice and make the most of this wonderful tool for health and happiness.\n- If you're not ready to quit yet, at least quit the cigarettes and start vaping instead, Your lungs will thank you."
