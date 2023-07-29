@@ -457,11 +457,7 @@ const ParallaxBook = ({ book }) =>{
             part.type = 'part';
             return part;
         }))}
-        <ParallaxNewsletterSignupPanel
-            id="newsletter-signup"
-            image={'https://media.githubusercontent.com/media/sschepis/an-uncommonly-fine-life/main/public/' + imgGroup + "/" + pageNum + '.png'}
-            height="600px"
-        />
+
     </ParallaxContainer>} />
 ); }
 
